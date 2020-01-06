@@ -1,4 +1,4 @@
 import React from 'react'
 
-const Button = () => <button> Olá </button>
+const Button = () => <button> Mostrar botão </button>
 export default Button
